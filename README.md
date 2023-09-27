@@ -1,3 +1,4 @@
+Picture-VHFC-2022-08-02.png
 <h1 align="center">Hi 👋, I'm Víctor Hugo Fernández Cruz</h1>
 <h3 align="center">A passionate full Stack developer java from México</h3>
 
