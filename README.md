@@ -8,7 +8,7 @@ Picture-VHFC-2022-08-02.png
 
 - 🌱 I’m currently learning **Spring boot,Python**
 
-- 👯 I’m looking to collaborate on **ecommerce**
+- 👯 I’m looking to collaborate on **E-Commerce**
 
 - 🤝 I’m looking for help with **html,css,js6,java**
 
